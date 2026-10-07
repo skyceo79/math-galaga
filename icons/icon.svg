@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2B2A5E"/>
+      <stop offset="1" stop-color="#7A5AA6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#bg)"/>
+  <circle cx="90" cy="110" r="6" fill="#fff"/>
+  <circle cx="420" cy="90" r="5" fill="#FFE08A"/>
+  <circle cx="440" cy="300" r="4" fill="#fff"/>
+  <circle cx="70" cy="330" r="5" fill="#A9DCFF"/>
+  <g stroke="#5B4B8A" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M220 150 Q200 95 175 100"/>
+    <path d="M292 150 Q312 95 337 100"/>
+  </g>
+  <circle cx="175" cy="100" r="16" fill="#FF7FB0"/>
+  <circle cx="337" cy="100" r="16" fill="#FF7FB0"/>
+  <ellipse cx="150" cy="215" rx="70" ry="42" fill="#fff" opacity=".7" transform="rotate(-30 150 215)"/>
+  <ellipse cx="362" cy="215" rx="70" ry="42" fill="#fff" opacity=".7" transform="rotate(30 362 215)"/>
+  <ellipse cx="256" cy="250" rx="130" ry="120" fill="#FFB3D1" stroke="#5B4B8A" stroke-opacity=".55" stroke-width="10"/>
+  <circle cx="216" cy="200" r="22" fill="#fff"/>
+  <circle cx="296" cy="200" r="22" fill="#fff"/>
+  <circle cx="218" cy="203" r="11" fill="#2E2550"/>
+  <circle cx="298" cy="203" r="11" fill="#2E2550"/>
+  <text x="256" y="320" text-anchor="middle" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-weight="bold" font-size="120" fill="#3A2E66">7</text>
+  <path d="M256 395 l-30 70 h60 z" fill="#fff" stroke="#5B4B8A" stroke-width="8" stroke-linejoin="round"/>
+</svg>
